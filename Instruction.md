@@ -49,7 +49,7 @@
 ## Testing your score
 1. Navigate to the 'test' directory using `cd test`.
 2. Run 'npm i' to install dependencies. if you encounter any errors during installation, you can use the following command: `./node_modules/.bin/cypress install`.
-3. Run tests using either `npx cypress open` or `npx cypress run`.
+3. Run tests using either `` or `npx cypress run`.
 
 # Best of Luck!
 
